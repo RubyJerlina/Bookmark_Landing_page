@@ -12,7 +12,7 @@ This project is a landing page for a bookmark manager application, inspired by a
 
 ## Demo
 
-You can view a live demo of this project [here](#).
+You can view a live demo of this project [ https://rubyjerlina.github.io/Bookmark_Landing_page/](#).
 
 ## Setup Instructions
 
